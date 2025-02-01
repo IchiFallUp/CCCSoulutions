@@ -1,2 +1,8 @@
 # CCCSoulutions
-My personal solutions for the Canadian Computing Compitition
+My Solutions for the Canadian Computing Competition
+
+**NOTICE**
+**SOME OF THE SOLUTIONS ARE NOT COMPLETE.**
+**THEY DO NOT PASS ALL TEST POSED BY THE ONLINE GRADER.** 
+**I WILL COMMENT ALL OF THE UNPASSED TESTS ON EACH FILE**
+**THESE CODES ARE FOR REFERENCE ONLY AND SHOULD NOT BE USED IN A DISHONEST MANNER**
