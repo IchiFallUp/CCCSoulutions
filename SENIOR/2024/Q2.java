@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 
-public class Main{
-
+public class Q2
   public static char HL(String str, char char1){
     int count = 0;
     for(int i = 0; i < str.length(); i++){
